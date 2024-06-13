@@ -1,4 +1,2 @@
-Olá, sou João Pedro Barbosa Moreira,tenho 18 anos
-Aluno de Engenharia de Software - 3° Período - UniEvangélica
-Trabalho com NodeJs utilizando o framework Express
-Dev Web
+Hi, I'm João Pedro Barbosa Moreira, I have 18 years old and I'm a student of Software Engineer 
+I'm a Web Developer and I code with Javascript using Node Js and the framework express for 2 years
