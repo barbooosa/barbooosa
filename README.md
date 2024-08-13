@@ -1,2 +1,1 @@
-Hi, I'm João Pedro Barbosa Moreira, I have 18 years old and I'm a student of Software Engineer 
-I'm a Web Developer and code with Node Js for 2 years
+I'm studying Software Engineering at UniEvangélica and have experience as an intern at Fábrica de Tecnologias Turing (FTT). I have knowledge in back-end development, including Python, and web applications using Node.js, for 2 years.
